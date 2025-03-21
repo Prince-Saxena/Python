@@ -1,6 +1,6 @@
 
 a = int(input("Enter first number :"))
-b = int(input("/nEnter second number :"))
+b = int(input("Enter second number :"))
 
 
 #Operations
