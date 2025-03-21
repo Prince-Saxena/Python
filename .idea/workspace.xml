@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="366ca329-9b4b-4dab-84d9-27ee92ddb84d" name="Changes" comment="git ignore">
-      <change afterPath="$PROJECT_DIR$/Assignments/Assignment_2/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/Assignment_2/Task2.py" afterDir="false" />
-    </list>
+    <list default="true" id="366ca329-9b4b-4dab-84d9-27ee92ddb84d" name="Changes" comment="Assignment 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +41,7 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.Assignment1.executor": "Run",
     "Python.Assignment1Task2.executor": "Run",
+    "Python.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
@@ -150,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742558534353</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Assignment 2">
+      <option name="closed" value="true" />
+      <created>1742559434589</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742559434589</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +175,7 @@
     <MESSAGE value="new file" />
     <MESSAGE value="Readme" />
     <MESSAGE value="git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+    <MESSAGE value="Assignment 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 2" />
   </component>
 </project>
